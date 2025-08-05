@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Humanoid
+comment1.params=p\ scaleFactor\ m
+comment1.target=Humanoid(Point,\ double,\ Material)
+comment2.params=ray
+comment2.target=Intersection\ intersect(Ray)
+numComments=3

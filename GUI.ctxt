@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=width\ height\ bi\ s\ xResolution\ yResolution\ aaNum
+comment1.target=GUI(int,\ int,\ java.awt.image.BufferedImage,\ Scene,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ setUpGUI()
+comment3.params=bi
+comment3.target=void\ updateImage(java.awt.image.BufferedImage)
+comment4.params=
+comment4.target=void\ setUpButtonListeners()
+comment5.params=ae
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=image
+comment6.target=java.awt.image.BufferedImage\ returnBufferedImage(ColorImage)
+comment7.params=c
+comment7.target=int\ toARGB(Color)
+numComments=8

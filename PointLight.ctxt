@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PointLight
+comment0.text=\n\ Write\ a\ description\ of\ class\ PointLight\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=c\ location
+comment1.target=PointLight(Color,\ Point)
+comment2.params=surfacePoint
+comment2.target=Vector\ computeLightDirection(Point)
+comment3.params=surfacePoint
+comment3.target=Color\ computeLightColor(Point)
+comment4.params=surfacePoint
+comment4.target=double\ computeLightDistance(Point)
+numComments=5

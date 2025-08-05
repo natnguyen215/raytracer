@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cone
+comment0.text=\n\ Represents\ a\ cone\ in\ 3D\ space.\ This\ shape\ is\ uncapped\ (you\ can\ cap\ with\ a\ ring\ or\ disc\ as\ required).\n\n\ @author\ Ben\ Farrar\n\ @version\ 2022.05.12\n
+comment1.params=centerBase\ top\ radius\ m
+comment1.target=Cone(Point,\ Point,\ double,\ Material)
+comment2.params=ray
+comment2.target=Intersection\ intersect(Ray)
+numComments=3

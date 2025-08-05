@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PanoramaCamera
+comment0.text=\n\ Write\ a\ description\ of\ class\ Panorama\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=position\ forwardVector\ upVector\ fieldOfView\ aspectRatio
+comment1.target=PanoramaCamera(Point,\ Vector,\ Vector,\ double,\ double)
+comment2.params=u\ v
+comment2.target=Point\ imagePlanePoint(double,\ double)
+comment3.params=u\ v
+comment3.target=Ray\ generateRay(double,\ double)
+numComments=4

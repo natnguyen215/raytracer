@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ImageLoader
+comment0.text=\n\ Provides\ a\ method\ for\ loading\ an\ image\ from\ a\ file\ and\ converting\ it\ to\ our\ internal\n\ ColorImage\ representation.\n\ \n\ @author\ Ben\ Farrar\n\ @version\ 2019.06.06\n
+comment1.params=filename
+comment1.target=ColorImage\ loadImage(java.lang.String)
+comment2.params=packed
+comment2.target=Color\ fromARGB(int)
+numComments=3

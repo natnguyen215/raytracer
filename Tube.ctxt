@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Tube
+comment0.text=\n\ Represents\ a\ tube\ (uncapped\ finite\ cylinder)\ in\ 3D\ space.\n\ \n\ @author\ Ben\ Farrar\n\ @version\ 2022.05.13\n
+comment1.params=v1\ v2\ radius\ m
+comment1.target=Tube(Point,\ Point,\ double,\ Material)
+comment2.params=ray
+comment2.target=Intersection\ intersect(Ray)
+numComments=3

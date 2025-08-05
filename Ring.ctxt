@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ring
+comment0.text=\n\ Represents\ a\ flat\ 2D\ torus\ (like\ Saturn's\ rings)\ in\ 3D\ space.\n\ This\ can\ also\ represent\ a\ disc\ by\ setting\ the\ inner\ radius\ to\ 0\ when\ constructing.\n\ \n\ @author\ Ben\ Farrar\n\ @version\ 2022.05.11\n
+comment1.params=position\ outerRadius\ innerRadius\ norm\ m
+comment1.target=Ring(Point,\ double,\ double,\ Vector,\ Material)
+comment2.params=ray
+comment2.target=Intersection\ intersect(Ray)
+numComments=3

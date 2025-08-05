@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PerspectiveCameraDOF
+comment0.text=\n\ Write\ a\ description\ of\ class\ Camera\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=position\ forwardVector\ upVector\ fieldOfView\ aspectRatio\ lensRadius\ focusLength
+comment1.target=PerspectiveCameraDOF(Point,\ Vector,\ Vector,\ double,\ double,\ double,\ double)
+comment2.params=u\ v\ p
+comment2.target=Point\ imagePlanePoint(double,\ double,\ Point)
+comment3.params=u\ v
+comment3.target=Ray\ generateRay(double,\ double)
+comment4.params=
+comment4.target=Vector\ getForwardVector()
+numComments=5

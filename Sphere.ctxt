@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Sphere
+comment0.text=\n\ Represents\ a\ sphere\ in\ 3D\ space.\n\ \n\ @author\ Ben\ Farrar\n\ @version\ 2019.05.22\n
+comment1.params=position\ radius\ m\ upVect\ forwardVect
+comment1.target=Sphere(Point,\ double,\ Material,\ Vector,\ Vector)
+comment2.params=position\ radius\ m\ move
+comment2.target=Sphere(Point,\ double,\ Material,\ Vector)
+comment3.params=position\ radius\ m
+comment3.target=Sphere(Point,\ double,\ Material)
+comment4.params=ray
+comment4.target=Intersection\ intersect(Ray)
+comment5.params=
+comment5.target=Point\ getPosition()
+numComments=6
