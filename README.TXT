@@ -7,6 +7,6 @@ https://github.com/natnguyen215/raytracer/blob/main/scene1.png
 
 https://github.com/natnguyen215/raytracer/blob/main/scene2.png
 
-https://github.com/natnguyen215/raytracer/blob/main/test.png
-
 https://github.com/natnguyen215/raytracer/blob/main/stars.png
+
+https://github.com/natnguyen215/raytracer/blob/main/final3.png
